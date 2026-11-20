@@ -1,7 +1,7 @@
 ```
 ┌──────────────────────────────────────────────┐
 │  stellar-pxl                                 │
-│  web · systems · AI-driven dev tooling       │
+│  web · systems · AI-driven · Dev tooling     │
 └──────────────────────────────────────────────┘
 ```
 
