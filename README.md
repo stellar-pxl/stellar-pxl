@@ -5,7 +5,8 @@
 └──────────────────────────────────────────────┘
 ```
 
-Building clean, fast software — mostly in **TypeScript**, **Rust**, and **Go**.
+Building clean, fast software in **TypeScript**, **Rust**, and **Go**.
 
-- **Focus** — AI-driven workflows, full-stack web, CLI & developer tooling
-- **Now** — building agentic tools & contributing to open source
+- **Focus:** AI-driven workflows, full-stack web, CLI & developer tooling
+- **Building:** [reportbin.dev](https://reportbin.dev) (shareable HTML reports for coding agents)
+- **Now:** contributing to open source & shipping focused dev tools
